@@ -1,2 +1,3 @@
 # HTML-Portfolio
-a repository for HTML web development projects
+creating a basic hmtl page
+https://hummaam27.github.io/HTML-Portfolio/
